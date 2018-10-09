@@ -1,2 +1,2 @@
-# DRC-uptower_measurements
+# DRC-Uptower-Measurements
 Drivetrain Reliability Collaborative - Uptower measurements

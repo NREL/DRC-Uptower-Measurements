@@ -1,7 +1,7 @@
 # Drivetrain Reliability Collaborative (DRC)
 A multipronged research program supported by the U.S. Department of Energy at Argonne National Laboratory and the National Renewable Energy Laboratory (NREL) is examining the causes of main bearing micropitting wear and axial (or "white etch") cracks in wind turbine gearbox bearings. As part of this research program, NREL has instrumented a commercial drivetrain, installed it in a wind turbine at the National Wind Technology Center (NWTC), and has operated it since January 2018. Hundreds of data sets have been acquired in normal power production conditions, as well as transient events such as startups, shutdowns, emergency stops and grid events. This purpose of this GitHub page is to make available these data sets.
 
-Authors: [Jonathan Keller](mailto:<Jonathan.Keller@nrel.gov>) and [Latha Sethuraman](mailto:<Latha.Sethuraman@nrel.gov>)\
+Authors: [Jonathan Keller](mailto:<Jonathan.Keller@nrel.gov>) and [Latha Sethuraman](mailto:<Latha.Sethuraman@nrel.gov>)
 
 
 # Data Format

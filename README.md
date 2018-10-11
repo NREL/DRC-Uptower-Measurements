@@ -4,7 +4,9 @@ A multipronged research program supported by the U.S. Department of Energy at Ar
 Authors: [Jonathan.Keller](Jonathan.Keller@nrel.gov) and [Latha Sethuraman](Latha.Sethuraman@nrel.gov)
 
 # Data Format
-The data is stored in .h5 format, a hierarchical data file (hdf) format. For viewing, HDFView2.9 or later is available (https://www.hdfgroup.org/downloads/hdfview/). For processing or analysis of the data, h5 files can be imported into MATLAB (https://www.mathworks.com/help/matlab/ref/h5read.html), Python (install h5py http://docs.h5py.org/en/stable/build.html and get data using pandas dataframe), or R (to access HDF5 files in R, use the rhdf5 library which is part of the Bioconductor suite of R packages).
+The data is stored in .h5 format, a hierarchical data file (hdf) format. 
+* For viewing, HDFView2.9 or later is available (https://www.hdfgroup.org/downloads/hdfview/). 
+* For processing or analysis of the data, h5 files can be imported into MATLAB (https://www.mathworks.com/help/matlab/ref/h5read.html), Python (install h5py http://docs.h5py.org/en/stable/build.html and get data using pandas dataframe), or R (to access HDF5 files in R, use the rhdf5 library which is part of the Bioconductor suite of R packages).
 
 # Data Documentation and Other References
 Research program (http://www.nrel.gov/docs/fy17osti/67523.pdf). Gearbox and instrumentation (http://www.nrel.gov/docs/fy18osti/70639.pdf).

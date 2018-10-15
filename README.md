@@ -13,7 +13,6 @@ The data is stored in .h5 format, a hierarchical data file (hdf) format.
 * Turbine description and mechanical loads test report (http://www.nrel.gov/docs/fy15osti/63679.pdf)
 * Research program overview (http://www.nrel.gov/docs/fy17osti/67523.pdf)
 * Gearbox and instrumentation description (http://www.nrel.gov/docs/fy18osti/70639.pdf)
-* Main bearing and instrumentation description (http://www.nrel.gov/docs/fy18osti/71692.pdf) 
 * First wind-season test report (http://www.nrel.gov/docs/fy18osti/71529.pdf)
 
 # Acknowledgments
